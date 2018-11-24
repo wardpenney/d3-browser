@@ -1,1 +1,1 @@
-console.log("WARDTEST");
+console.log("WARDTEST", process.env.WARDTEST);
