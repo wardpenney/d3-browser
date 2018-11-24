@@ -1,0 +1,20 @@
+{
+  "name": "d3-browser",
+  "version": "1.0.0",
+  "description": "D3 Browser",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wardpenney/d3-browser.git"
+  },
+  "author": "Ward Penney",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wardpenney/d3-browser/issues"
+  },
+  "homepage": "https://github.com/wardpenney/d3-browser#readme",
+  "dependencies": {
+    "webpack": "^4.26.0",
+    "webpack-cli": "^3.1.2"
+  }
+}
